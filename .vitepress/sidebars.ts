@@ -14,6 +14,7 @@ export const langchainSidebar: DefaultTheme.SidebarItem[] = [
       { text: '08 · 中间件', link: '/langchain/课件/08-中间件' },
       { text: '09 · 上下文与记忆', link: '/langchain/课件/09-上下文与记忆' },
       { text: '10 · RAG', link: '/langchain/课件/10-RAG' },
+      { text: '11 · MCP 与 Skills', link: '/langchain/课件/11-MCP与Skills' },
     ],
   },
   {
