@@ -48,6 +48,7 @@ langchain/
 | 第 08 章 · 中间件               | [课件](./课件/08-中间件.md)                           | [chapter08-Middleware](./代码/langchain1.2_tutorial/chapter08-Middleware/)               | P64 – P85   |
 | 第 09 章 · 上下文与记忆         | [课件](./课件/09-上下文与记忆.md)               | [chapter09-memory](./代码/langchain1.2_tutorial/chapter09-memory/)                       | P86 – P101  |
 | 第 10 章 · RAG                  | [课件](./课件/10-RAG.md)                                 | [chapter10-RAG](./代码/langchain1.2_tutorial/chapter10-RAG/)                             | P102 – P120 |
+| 第 11 章 · MCP 与 Skills（补充） | [课件](./课件/11-MCP与Skills.md)                         | —                                                                                        | —           |
 
 ---
 
